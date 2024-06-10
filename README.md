@@ -3,13 +3,20 @@
 
 ###
 
-<p align="left">Olá 👋, sou Gabriel Iuri! Um apaixonado estudante de Programação do Brasil.</p>
+<h3>Sobre: </h3>
+<p align="left">
+  Olá 👋, sou Gabriel Iuri! Um apaixonado estudante de Programação do Brasil.<br>
+  Desenvolvedor FullStack com foco em JavaScript e Python, com experiência de estudos desde julho de 2023. Busco constantemente aprimorar minhas habilidades por meio de cursos, incluindo uma formação profissionalizante presencial. <br>
+  Resido em Belo Horizonte, tenho 18 anos.
+
+</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
+  <h3>GitHub Status</h3>
   <img src="https://streak-stats.demolab.com?user=g4brielpy&locale=pt-br&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g4brielpy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -17,6 +24,7 @@
 ###
 
 <div align="left">
+  <h3>Minha Stack: </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -39,6 +47,7 @@
 ###
 
 <div align="left">
+  <h3>Minhas Redes de Contato: </h3>
   <a href="https://www.linkedin.com/in/g4briel-yur1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -50,7 +59,7 @@
   </a>
 </div>
 
-###
+##
 
 <br clear="both">
 
