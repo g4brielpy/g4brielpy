@@ -1,3 +1,4 @@
+<img src="src/img/Banner-linkedin.png" alt="Banner Gabriel Iuri">
 <h1 align="center">Hello World</h1>
 
 ###
