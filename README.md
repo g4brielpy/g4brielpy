@@ -5,10 +5,10 @@
 
 <h3>Sobre: </h3>
 <p align="left">
-  Olá 👋, sou Gabriel Iuri! Um apaixonado estudante de Programação do Brasil.<br>
-  Desenvolvedor FullStack com foco em JavaScript e Python, com experiência de estudos desde julho de 2023. Busco constantemente aprimorar minhas habilidades por meio de cursos, incluindo uma formação profissionalizante presencial. <br>
-  Resido em Belo Horizonte, tenho 18 anos.
-
+  Desenvolvedor Front End com foco em Next e React, com experiência de estudos desde julho de 2023. <br />
+  Busco constantemente aprimorar minhas habilidades por meio de cursos, incluindo uma formação profissionalizante presencial.
+  <br />
+  Resido em Belo Horizonte, tenho 18 anos e estou entusiasmado em contribuir para projetos desafiadores e inovadores na área de desenvolvimento web.
 </p>
 
 ###
